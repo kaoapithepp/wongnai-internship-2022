@@ -1,0 +1,26 @@
+.tag-row {
+    margin: 10px;
+}
+
+.tag-row * {
+    margin: 0px 10px;
+}
+
+.tag-button {
+    padding: 10px;
+    border: 1px solid #2C9CDB;
+    border-radius: 50px;
+    width: 120px;
+    background-color: #FFFFFF;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-weight: 600;
+    font-size: 1em;
+    color: #2C9CDB;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.tag-button:hover {
+    color: #FFFFFF;
+    background-color: #2C9CDB;
+}

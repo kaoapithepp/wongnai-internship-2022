@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+    font-weight: 400;
+    font-size: 7vh;
+    color: #2C9CDB;
+    margin: 10px;
+}
